@@ -2,7 +2,18 @@ aid: schneider-national
 url: https://raw.githubusercontent.com/api-evangelist/schneider-national/refs/heads/main/apis.yml
 name: Schneider National
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/schneider-national.png
 description: 'Profile for Schneider National in the API Evangelist network. Fortune F1000 (rank 571).'
 created: '2026-05-05'
 modified: '2026-05-05'
